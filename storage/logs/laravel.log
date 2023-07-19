@@ -1,0 +1,924 @@
+[2023-07-14 03:53:51] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php:212)
+[stacktrace]
+#0 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(137): Illuminate\\Log\\LogManager->resolve(NULL, NULL)
+#1 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(124): Illuminate\\Log\\LogManager->get(NULL)
+#2 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(667): Illuminate\\Log\\LogManager->driver()
+#3 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Exceptions\\Handler.php(274): Illuminate\\Log\\LogManager->error('Class \"Maatwebs...', Array)
+#4 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(503): Illuminate\\Foundation\\Exceptions\\Handler->report(Object(Error))
+#5 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(202): Illuminate\\Foundation\\Console\\Kernel->reportException(Object(Error))
+#6 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#7 {main}
+"} 
+[2023-07-14 03:53:51] laravel.ERROR: Class "Maatwebsite\Excel\Excel" not found {"exception":"[object] (Error(code: 0): Class \"Maatwebsite\\Excel\\Excel\" not found at C:\\Users\\EKKY DEA\\modul 10\\config\\excel.php:165)
+[stacktrace]
+#0 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(70): require()
+#1 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\\Foundation\\Application), Object(Illuminate\\Config\\Repository))
+#2 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(261): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap(Object(Illuminate\\Foundation\\Application))
+#3 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(428): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#4 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(198): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#5 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#6 {main}
+"} 
+[2023-07-14 03:53:51] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php:212)
+[stacktrace]
+#0 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(137): Illuminate\\Log\\LogManager->resolve(NULL, NULL)
+#1 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(124): Illuminate\\Log\\LogManager->get(NULL)
+#2 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(667): Illuminate\\Log\\LogManager->driver()
+#3 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Exceptions\\Handler.php(274): Illuminate\\Log\\LogManager->error('Class \"Maatwebs...', Array)
+#4 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(503): Illuminate\\Foundation\\Exceptions\\Handler->report(Object(Error))
+#5 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(202): Illuminate\\Foundation\\Console\\Kernel->reportException(Object(Error))
+#6 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#7 {main}
+"} 
+[2023-07-14 03:53:51] laravel.ERROR: Class "Maatwebsite\Excel\Excel" not found {"exception":"[object] (Error(code: 0): Class \"Maatwebsite\\Excel\\Excel\" not found at C:\\Users\\EKKY DEA\\modul 10\\config\\excel.php:165)
+[stacktrace]
+#0 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(70): require()
+#1 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\\Foundation\\Application), Object(Illuminate\\Config\\Repository))
+#2 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(261): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap(Object(Illuminate\\Foundation\\Application))
+#3 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(428): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#4 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(198): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#5 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#6 {main}
+"} 
+[2023-07-14 03:53:51] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php:212)
+[stacktrace]
+#0 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(137): Illuminate\\Log\\LogManager->resolve(NULL, NULL)
+#1 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(124): Illuminate\\Log\\LogManager->get(NULL)
+#2 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(667): Illuminate\\Log\\LogManager->driver()
+#3 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Exceptions\\Handler.php(274): Illuminate\\Log\\LogManager->error('Class \"Maatwebs...', Array)
+#4 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(503): Illuminate\\Foundation\\Exceptions\\Handler->report(Object(Error))
+#5 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(202): Illuminate\\Foundation\\Console\\Kernel->reportException(Object(Error))
+#6 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#7 {main}
+"} 
+[2023-07-14 03:53:51] laravel.ERROR: Class "Maatwebsite\Excel\Excel" not found {"exception":"[object] (Error(code: 0): Class \"Maatwebsite\\Excel\\Excel\" not found at C:\\Users\\EKKY DEA\\modul 10\\config\\excel.php:165)
+[stacktrace]
+#0 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(70): require()
+#1 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\\Foundation\\Application), Object(Illuminate\\Config\\Repository))
+#2 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(261): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap(Object(Illuminate\\Foundation\\Application))
+#3 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(428): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#4 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(198): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#5 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#6 {main}
+"} 
+[2023-07-14 03:53:52] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php:212)
+[stacktrace]
+#0 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(137): Illuminate\\Log\\LogManager->resolve(NULL, NULL)
+#1 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(124): Illuminate\\Log\\LogManager->get(NULL)
+#2 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(667): Illuminate\\Log\\LogManager->driver()
+#3 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Exceptions\\Handler.php(274): Illuminate\\Log\\LogManager->error('Class \"Maatwebs...', Array)
+#4 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(503): Illuminate\\Foundation\\Exceptions\\Handler->report(Object(Error))
+#5 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(202): Illuminate\\Foundation\\Console\\Kernel->reportException(Object(Error))
+#6 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#7 {main}
+"} 
+[2023-07-14 03:53:52] laravel.ERROR: Class "Maatwebsite\Excel\Excel" not found {"exception":"[object] (Error(code: 0): Class \"Maatwebsite\\Excel\\Excel\" not found at C:\\Users\\EKKY DEA\\modul 10\\config\\excel.php:165)
+[stacktrace]
+#0 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(70): require()
+#1 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\\Foundation\\Application), Object(Illuminate\\Config\\Repository))
+#2 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(261): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap(Object(Illuminate\\Foundation\\Application))
+#3 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(428): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#4 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(198): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#5 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#6 {main}
+"} 
+[2023-07-14 03:53:52] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php:212)
+[stacktrace]
+#0 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(137): Illuminate\\Log\\LogManager->resolve(NULL, NULL)
+#1 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(124): Illuminate\\Log\\LogManager->get(NULL)
+#2 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(667): Illuminate\\Log\\LogManager->driver()
+#3 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Exceptions\\Handler.php(274): Illuminate\\Log\\LogManager->error('Class \"Maatwebs...', Array)
+#4 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(503): Illuminate\\Foundation\\Exceptions\\Handler->report(Object(Error))
+#5 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(202): Illuminate\\Foundation\\Console\\Kernel->reportException(Object(Error))
+#6 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#7 {main}
+"} 
+[2023-07-14 03:53:52] laravel.ERROR: Class "Maatwebsite\Excel\Excel" not found {"exception":"[object] (Error(code: 0): Class \"Maatwebsite\\Excel\\Excel\" not found at C:\\Users\\EKKY DEA\\modul 10\\config\\excel.php:165)
+[stacktrace]
+#0 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(70): require()
+#1 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\\Foundation\\Application), Object(Illuminate\\Config\\Repository))
+#2 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(261): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap(Object(Illuminate\\Foundation\\Application))
+#3 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(428): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#4 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(198): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#5 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#6 {main}
+"} 
+[2023-07-14 03:53:53] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php:212)
+[stacktrace]
+#0 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(137): Illuminate\\Log\\LogManager->resolve(NULL, NULL)
+#1 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(124): Illuminate\\Log\\LogManager->get(NULL)
+#2 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(667): Illuminate\\Log\\LogManager->driver()
+#3 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Exceptions\\Handler.php(274): Illuminate\\Log\\LogManager->error('Class \"Maatwebs...', Array)
+#4 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(503): Illuminate\\Foundation\\Exceptions\\Handler->report(Object(Error))
+#5 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(202): Illuminate\\Foundation\\Console\\Kernel->reportException(Object(Error))
+#6 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#7 {main}
+"} 
+[2023-07-14 03:53:53] laravel.ERROR: Class "Maatwebsite\Excel\Excel" not found {"exception":"[object] (Error(code: 0): Class \"Maatwebsite\\Excel\\Excel\" not found at C:\\Users\\EKKY DEA\\modul 10\\config\\excel.php:165)
+[stacktrace]
+#0 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(70): require()
+#1 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\\Foundation\\Application), Object(Illuminate\\Config\\Repository))
+#2 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(261): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap(Object(Illuminate\\Foundation\\Application))
+#3 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(428): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#4 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(198): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#5 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#6 {main}
+"} 
+[2023-07-14 03:53:54] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php:212)
+[stacktrace]
+#0 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(137): Illuminate\\Log\\LogManager->resolve(NULL, NULL)
+#1 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(124): Illuminate\\Log\\LogManager->get(NULL)
+#2 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(667): Illuminate\\Log\\LogManager->driver()
+#3 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Exceptions\\Handler.php(274): Illuminate\\Log\\LogManager->error('Class \"Maatwebs...', Array)
+#4 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(503): Illuminate\\Foundation\\Exceptions\\Handler->report(Object(Error))
+#5 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(202): Illuminate\\Foundation\\Console\\Kernel->reportException(Object(Error))
+#6 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#7 {main}
+"} 
+[2023-07-14 03:53:54] laravel.ERROR: Class "Maatwebsite\Excel\Excel" not found {"exception":"[object] (Error(code: 0): Class \"Maatwebsite\\Excel\\Excel\" not found at C:\\Users\\EKKY DEA\\modul 10\\config\\excel.php:165)
+[stacktrace]
+#0 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(70): require()
+#1 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\\Foundation\\Application), Object(Illuminate\\Config\\Repository))
+#2 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(261): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap(Object(Illuminate\\Foundation\\Application))
+#3 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(428): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#4 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(198): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#5 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#6 {main}
+"} 
+[2023-07-14 03:53:55] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php:212)
+[stacktrace]
+#0 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(137): Illuminate\\Log\\LogManager->resolve(NULL, NULL)
+#1 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(124): Illuminate\\Log\\LogManager->get(NULL)
+#2 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(667): Illuminate\\Log\\LogManager->driver()
+#3 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Exceptions\\Handler.php(274): Illuminate\\Log\\LogManager->error('Class \"Maatwebs...', Array)
+#4 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(503): Illuminate\\Foundation\\Exceptions\\Handler->report(Object(Error))
+#5 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(202): Illuminate\\Foundation\\Console\\Kernel->reportException(Object(Error))
+#6 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#7 {main}
+"} 
+[2023-07-14 03:53:55] laravel.ERROR: Class "Maatwebsite\Excel\Excel" not found {"exception":"[object] (Error(code: 0): Class \"Maatwebsite\\Excel\\Excel\" not found at C:\\Users\\EKKY DEA\\modul 10\\config\\excel.php:165)
+[stacktrace]
+#0 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(70): require()
+#1 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\\Foundation\\Application), Object(Illuminate\\Config\\Repository))
+#2 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(261): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap(Object(Illuminate\\Foundation\\Application))
+#3 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(428): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#4 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(198): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#5 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#6 {main}
+"} 
+[2023-07-14 03:53:56] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php:212)
+[stacktrace]
+#0 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(137): Illuminate\\Log\\LogManager->resolve(NULL, NULL)
+#1 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(124): Illuminate\\Log\\LogManager->get(NULL)
+#2 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(667): Illuminate\\Log\\LogManager->driver()
+#3 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Exceptions\\Handler.php(274): Illuminate\\Log\\LogManager->error('Class \"Maatwebs...', Array)
+#4 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(503): Illuminate\\Foundation\\Exceptions\\Handler->report(Object(Error))
+#5 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(202): Illuminate\\Foundation\\Console\\Kernel->reportException(Object(Error))
+#6 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#7 {main}
+"} 
+[2023-07-14 03:53:56] laravel.ERROR: Class "Maatwebsite\Excel\Excel" not found {"exception":"[object] (Error(code: 0): Class \"Maatwebsite\\Excel\\Excel\" not found at C:\\Users\\EKKY DEA\\modul 10\\config\\excel.php:165)
+[stacktrace]
+#0 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(70): require()
+#1 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\\Foundation\\Application), Object(Illuminate\\Config\\Repository))
+#2 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(261): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap(Object(Illuminate\\Foundation\\Application))
+#3 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(428): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#4 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(198): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#5 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#6 {main}
+"} 
+[2023-07-14 03:54:54] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php:212)
+[stacktrace]
+#0 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(137): Illuminate\\Log\\LogManager->resolve(NULL, NULL)
+#1 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(124): Illuminate\\Log\\LogManager->get(NULL)
+#2 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(667): Illuminate\\Log\\LogManager->driver()
+#3 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Exceptions\\Handler.php(274): Illuminate\\Log\\LogManager->error('Class \"Maatwebs...', Array)
+#4 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(503): Illuminate\\Foundation\\Exceptions\\Handler->report(Object(Error))
+#5 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(202): Illuminate\\Foundation\\Console\\Kernel->reportException(Object(Error))
+#6 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#7 {main}
+"} 
+[2023-07-14 03:54:54] laravel.ERROR: Class "Maatwebsite\Excel\Excel" not found {"exception":"[object] (Error(code: 0): Class \"Maatwebsite\\Excel\\Excel\" not found at C:\\Users\\EKKY DEA\\modul 10\\config\\excel.php:165)
+[stacktrace]
+#0 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(70): require()
+#1 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\\Foundation\\Application), Object(Illuminate\\Config\\Repository))
+#2 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(261): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap(Object(Illuminate\\Foundation\\Application))
+#3 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(428): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#4 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(198): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#5 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#6 {main}
+"} 
+[2023-07-14 03:54:55] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php:212)
+[stacktrace]
+#0 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(137): Illuminate\\Log\\LogManager->resolve(NULL, NULL)
+#1 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(124): Illuminate\\Log\\LogManager->get(NULL)
+#2 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(667): Illuminate\\Log\\LogManager->driver()
+#3 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Exceptions\\Handler.php(274): Illuminate\\Log\\LogManager->error('Class \"Maatwebs...', Array)
+#4 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(503): Illuminate\\Foundation\\Exceptions\\Handler->report(Object(Error))
+#5 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(202): Illuminate\\Foundation\\Console\\Kernel->reportException(Object(Error))
+#6 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#7 {main}
+"} 
+[2023-07-14 03:54:55] laravel.ERROR: Class "Maatwebsite\Excel\Excel" not found {"exception":"[object] (Error(code: 0): Class \"Maatwebsite\\Excel\\Excel\" not found at C:\\Users\\EKKY DEA\\modul 10\\config\\excel.php:165)
+[stacktrace]
+#0 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(70): require()
+#1 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\\Foundation\\Application), Object(Illuminate\\Config\\Repository))
+#2 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(261): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap(Object(Illuminate\\Foundation\\Application))
+#3 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(428): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#4 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(198): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#5 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#6 {main}
+"} 
+[2023-07-14 03:55:54] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php:212)
+[stacktrace]
+#0 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(137): Illuminate\\Log\\LogManager->resolve(NULL, NULL)
+#1 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(124): Illuminate\\Log\\LogManager->get(NULL)
+#2 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(667): Illuminate\\Log\\LogManager->driver()
+#3 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Exceptions\\Handler.php(274): Illuminate\\Log\\LogManager->error('Class \"Maatwebs...', Array)
+#4 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(503): Illuminate\\Foundation\\Exceptions\\Handler->report(Object(Error))
+#5 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(202): Illuminate\\Foundation\\Console\\Kernel->reportException(Object(Error))
+#6 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#7 {main}
+"} 
+[2023-07-14 03:55:54] laravel.ERROR: Class "Maatwebsite\Excel\Excel" not found {"exception":"[object] (Error(code: 0): Class \"Maatwebsite\\Excel\\Excel\" not found at C:\\Users\\EKKY DEA\\modul 10\\config\\excel.php:165)
+[stacktrace]
+#0 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(70): require()
+#1 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\\Foundation\\Application), Object(Illuminate\\Config\\Repository))
+#2 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(261): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap(Object(Illuminate\\Foundation\\Application))
+#3 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(428): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#4 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(198): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#5 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#6 {main}
+"} 
+[2023-07-14 03:55:55] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php:212)
+[stacktrace]
+#0 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(137): Illuminate\\Log\\LogManager->resolve(NULL, NULL)
+#1 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(124): Illuminate\\Log\\LogManager->get(NULL)
+#2 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(667): Illuminate\\Log\\LogManager->driver()
+#3 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Exceptions\\Handler.php(274): Illuminate\\Log\\LogManager->error('Class \"Maatwebs...', Array)
+#4 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(503): Illuminate\\Foundation\\Exceptions\\Handler->report(Object(Error))
+#5 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(202): Illuminate\\Foundation\\Console\\Kernel->reportException(Object(Error))
+#6 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#7 {main}
+"} 
+[2023-07-14 03:55:55] laravel.ERROR: Class "Maatwebsite\Excel\Excel" not found {"exception":"[object] (Error(code: 0): Class \"Maatwebsite\\Excel\\Excel\" not found at C:\\Users\\EKKY DEA\\modul 10\\config\\excel.php:165)
+[stacktrace]
+#0 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(70): require()
+#1 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\\Foundation\\Application), Object(Illuminate\\Config\\Repository))
+#2 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(261): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap(Object(Illuminate\\Foundation\\Application))
+#3 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(428): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#4 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(198): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#5 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#6 {main}
+"} 
+[2023-07-14 03:56:54] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php:212)
+[stacktrace]
+#0 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(137): Illuminate\\Log\\LogManager->resolve(NULL, NULL)
+#1 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(124): Illuminate\\Log\\LogManager->get(NULL)
+#2 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(667): Illuminate\\Log\\LogManager->driver()
+#3 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Exceptions\\Handler.php(274): Illuminate\\Log\\LogManager->error('Class \"Maatwebs...', Array)
+#4 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(503): Illuminate\\Foundation\\Exceptions\\Handler->report(Object(Error))
+#5 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(202): Illuminate\\Foundation\\Console\\Kernel->reportException(Object(Error))
+#6 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#7 {main}
+"} 
+[2023-07-14 03:56:54] laravel.ERROR: Class "Maatwebsite\Excel\Excel" not found {"exception":"[object] (Error(code: 0): Class \"Maatwebsite\\Excel\\Excel\" not found at C:\\Users\\EKKY DEA\\modul 10\\config\\excel.php:165)
+[stacktrace]
+#0 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(70): require()
+#1 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\\Foundation\\Application), Object(Illuminate\\Config\\Repository))
+#2 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(261): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap(Object(Illuminate\\Foundation\\Application))
+#3 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(428): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#4 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(198): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#5 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#6 {main}
+"} 
+[2023-07-14 03:56:55] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php:212)
+[stacktrace]
+#0 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(137): Illuminate\\Log\\LogManager->resolve(NULL, NULL)
+#1 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(124): Illuminate\\Log\\LogManager->get(NULL)
+#2 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(667): Illuminate\\Log\\LogManager->driver()
+#3 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Exceptions\\Handler.php(274): Illuminate\\Log\\LogManager->error('Class \"Maatwebs...', Array)
+#4 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(503): Illuminate\\Foundation\\Exceptions\\Handler->report(Object(Error))
+#5 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(202): Illuminate\\Foundation\\Console\\Kernel->reportException(Object(Error))
+#6 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#7 {main}
+"} 
+[2023-07-14 03:56:55] laravel.ERROR: Class "Maatwebsite\Excel\Excel" not found {"exception":"[object] (Error(code: 0): Class \"Maatwebsite\\Excel\\Excel\" not found at C:\\Users\\EKKY DEA\\modul 10\\config\\excel.php:165)
+[stacktrace]
+#0 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(70): require()
+#1 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\\Foundation\\Application), Object(Illuminate\\Config\\Repository))
+#2 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(261): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap(Object(Illuminate\\Foundation\\Application))
+#3 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(428): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#4 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(198): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#5 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#6 {main}
+"} 
+[2023-07-14 03:57:54] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php:212)
+[stacktrace]
+#0 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(137): Illuminate\\Log\\LogManager->resolve(NULL, NULL)
+#1 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(124): Illuminate\\Log\\LogManager->get(NULL)
+#2 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(667): Illuminate\\Log\\LogManager->driver()
+#3 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Exceptions\\Handler.php(274): Illuminate\\Log\\LogManager->error('Class \"Maatwebs...', Array)
+#4 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(503): Illuminate\\Foundation\\Exceptions\\Handler->report(Object(Error))
+#5 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(202): Illuminate\\Foundation\\Console\\Kernel->reportException(Object(Error))
+#6 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#7 {main}
+"} 
+[2023-07-14 03:57:54] laravel.ERROR: Class "Maatwebsite\Excel\Excel" not found {"exception":"[object] (Error(code: 0): Class \"Maatwebsite\\Excel\\Excel\" not found at C:\\Users\\EKKY DEA\\modul 10\\config\\excel.php:165)
+[stacktrace]
+#0 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(70): require()
+#1 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\\Foundation\\Application), Object(Illuminate\\Config\\Repository))
+#2 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(261): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap(Object(Illuminate\\Foundation\\Application))
+#3 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(428): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#4 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(198): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#5 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#6 {main}
+"} 
+[2023-07-14 03:57:55] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php:212)
+[stacktrace]
+#0 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(137): Illuminate\\Log\\LogManager->resolve(NULL, NULL)
+#1 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(124): Illuminate\\Log\\LogManager->get(NULL)
+#2 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(667): Illuminate\\Log\\LogManager->driver()
+#3 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Exceptions\\Handler.php(274): Illuminate\\Log\\LogManager->error('Class \"Maatwebs...', Array)
+#4 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(503): Illuminate\\Foundation\\Exceptions\\Handler->report(Object(Error))
+#5 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(202): Illuminate\\Foundation\\Console\\Kernel->reportException(Object(Error))
+#6 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#7 {main}
+"} 
+[2023-07-14 03:57:55] laravel.ERROR: Class "Maatwebsite\Excel\Excel" not found {"exception":"[object] (Error(code: 0): Class \"Maatwebsite\\Excel\\Excel\" not found at C:\\Users\\EKKY DEA\\modul 10\\config\\excel.php:165)
+[stacktrace]
+#0 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(70): require()
+#1 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\\Foundation\\Application), Object(Illuminate\\Config\\Repository))
+#2 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(261): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap(Object(Illuminate\\Foundation\\Application))
+#3 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(428): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#4 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(198): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#5 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#6 {main}
+"} 
+[2023-07-14 03:58:54] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php:212)
+[stacktrace]
+#0 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(137): Illuminate\\Log\\LogManager->resolve(NULL, NULL)
+#1 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(124): Illuminate\\Log\\LogManager->get(NULL)
+#2 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(667): Illuminate\\Log\\LogManager->driver()
+#3 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Exceptions\\Handler.php(274): Illuminate\\Log\\LogManager->error('Class \"Maatwebs...', Array)
+#4 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(503): Illuminate\\Foundation\\Exceptions\\Handler->report(Object(Error))
+#5 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(202): Illuminate\\Foundation\\Console\\Kernel->reportException(Object(Error))
+#6 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#7 {main}
+"} 
+[2023-07-14 03:58:54] laravel.ERROR: Class "Maatwebsite\Excel\Excel" not found {"exception":"[object] (Error(code: 0): Class \"Maatwebsite\\Excel\\Excel\" not found at C:\\Users\\EKKY DEA\\modul 10\\config\\excel.php:165)
+[stacktrace]
+#0 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(70): require()
+#1 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\\Foundation\\Application), Object(Illuminate\\Config\\Repository))
+#2 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(261): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap(Object(Illuminate\\Foundation\\Application))
+#3 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(428): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#4 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(198): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#5 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#6 {main}
+"} 
+[2023-07-14 03:58:55] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php:212)
+[stacktrace]
+#0 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(137): Illuminate\\Log\\LogManager->resolve(NULL, NULL)
+#1 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(124): Illuminate\\Log\\LogManager->get(NULL)
+#2 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(667): Illuminate\\Log\\LogManager->driver()
+#3 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Exceptions\\Handler.php(274): Illuminate\\Log\\LogManager->error('Class \"Maatwebs...', Array)
+#4 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(503): Illuminate\\Foundation\\Exceptions\\Handler->report(Object(Error))
+#5 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(202): Illuminate\\Foundation\\Console\\Kernel->reportException(Object(Error))
+#6 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#7 {main}
+"} 
+[2023-07-14 03:58:55] laravel.ERROR: Class "Maatwebsite\Excel\Excel" not found {"exception":"[object] (Error(code: 0): Class \"Maatwebsite\\Excel\\Excel\" not found at C:\\Users\\EKKY DEA\\modul 10\\config\\excel.php:165)
+[stacktrace]
+#0 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(70): require()
+#1 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\\Foundation\\Application), Object(Illuminate\\Config\\Repository))
+#2 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(261): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap(Object(Illuminate\\Foundation\\Application))
+#3 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(428): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#4 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(198): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#5 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#6 {main}
+"} 
+[2023-07-14 03:59:54] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php:212)
+[stacktrace]
+#0 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(137): Illuminate\\Log\\LogManager->resolve(NULL, NULL)
+#1 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(124): Illuminate\\Log\\LogManager->get(NULL)
+#2 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(667): Illuminate\\Log\\LogManager->driver()
+#3 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Exceptions\\Handler.php(274): Illuminate\\Log\\LogManager->error('Class \"Maatwebs...', Array)
+#4 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(503): Illuminate\\Foundation\\Exceptions\\Handler->report(Object(Error))
+#5 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(202): Illuminate\\Foundation\\Console\\Kernel->reportException(Object(Error))
+#6 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#7 {main}
+"} 
+[2023-07-14 03:59:54] laravel.ERROR: Class "Maatwebsite\Excel\Excel" not found {"exception":"[object] (Error(code: 0): Class \"Maatwebsite\\Excel\\Excel\" not found at C:\\Users\\EKKY DEA\\modul 10\\config\\excel.php:165)
+[stacktrace]
+#0 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(70): require()
+#1 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\\Foundation\\Application), Object(Illuminate\\Config\\Repository))
+#2 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(261): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap(Object(Illuminate\\Foundation\\Application))
+#3 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(428): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#4 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(198): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#5 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#6 {main}
+"} 
+[2023-07-14 03:59:55] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php:212)
+[stacktrace]
+#0 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(137): Illuminate\\Log\\LogManager->resolve(NULL, NULL)
+#1 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(124): Illuminate\\Log\\LogManager->get(NULL)
+#2 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(667): Illuminate\\Log\\LogManager->driver()
+#3 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Exceptions\\Handler.php(274): Illuminate\\Log\\LogManager->error('Class \"Maatwebs...', Array)
+#4 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(503): Illuminate\\Foundation\\Exceptions\\Handler->report(Object(Error))
+#5 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(202): Illuminate\\Foundation\\Console\\Kernel->reportException(Object(Error))
+#6 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#7 {main}
+"} 
+[2023-07-14 03:59:55] laravel.ERROR: Class "Maatwebsite\Excel\Excel" not found {"exception":"[object] (Error(code: 0): Class \"Maatwebsite\\Excel\\Excel\" not found at C:\\Users\\EKKY DEA\\modul 10\\config\\excel.php:165)
+[stacktrace]
+#0 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(70): require()
+#1 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\\Foundation\\Application), Object(Illuminate\\Config\\Repository))
+#2 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(261): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap(Object(Illuminate\\Foundation\\Application))
+#3 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(428): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#4 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(198): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#5 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#6 {main}
+"} 
+[2023-07-14 04:00:54] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php:212)
+[stacktrace]
+#0 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(137): Illuminate\\Log\\LogManager->resolve(NULL, NULL)
+#1 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(124): Illuminate\\Log\\LogManager->get(NULL)
+#2 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(667): Illuminate\\Log\\LogManager->driver()
+#3 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Exceptions\\Handler.php(274): Illuminate\\Log\\LogManager->error('Class \"Maatwebs...', Array)
+#4 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(503): Illuminate\\Foundation\\Exceptions\\Handler->report(Object(Error))
+#5 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(202): Illuminate\\Foundation\\Console\\Kernel->reportException(Object(Error))
+#6 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#7 {main}
+"} 
+[2023-07-14 04:00:54] laravel.ERROR: Class "Maatwebsite\Excel\Excel" not found {"exception":"[object] (Error(code: 0): Class \"Maatwebsite\\Excel\\Excel\" not found at C:\\Users\\EKKY DEA\\modul 10\\config\\excel.php:165)
+[stacktrace]
+#0 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(70): require()
+#1 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\\Foundation\\Application), Object(Illuminate\\Config\\Repository))
+#2 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(261): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap(Object(Illuminate\\Foundation\\Application))
+#3 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(428): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#4 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(198): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#5 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#6 {main}
+"} 
+[2023-07-14 04:00:55] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php:212)
+[stacktrace]
+#0 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(137): Illuminate\\Log\\LogManager->resolve(NULL, NULL)
+#1 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(124): Illuminate\\Log\\LogManager->get(NULL)
+#2 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(667): Illuminate\\Log\\LogManager->driver()
+#3 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Exceptions\\Handler.php(274): Illuminate\\Log\\LogManager->error('Class \"Maatwebs...', Array)
+#4 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(503): Illuminate\\Foundation\\Exceptions\\Handler->report(Object(Error))
+#5 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(202): Illuminate\\Foundation\\Console\\Kernel->reportException(Object(Error))
+#6 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#7 {main}
+"} 
+[2023-07-14 04:00:55] laravel.ERROR: Class "Maatwebsite\Excel\Excel" not found {"exception":"[object] (Error(code: 0): Class \"Maatwebsite\\Excel\\Excel\" not found at C:\\Users\\EKKY DEA\\modul 10\\config\\excel.php:165)
+[stacktrace]
+#0 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(70): require()
+#1 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\\Foundation\\Application), Object(Illuminate\\Config\\Repository))
+#2 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(261): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap(Object(Illuminate\\Foundation\\Application))
+#3 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(428): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#4 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(198): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#5 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#6 {main}
+"} 
+[2023-07-14 04:01:54] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php:212)
+[stacktrace]
+#0 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(137): Illuminate\\Log\\LogManager->resolve(NULL, NULL)
+#1 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(124): Illuminate\\Log\\LogManager->get(NULL)
+#2 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(667): Illuminate\\Log\\LogManager->driver()
+#3 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Exceptions\\Handler.php(274): Illuminate\\Log\\LogManager->error('Class \"Maatwebs...', Array)
+#4 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(503): Illuminate\\Foundation\\Exceptions\\Handler->report(Object(Error))
+#5 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(202): Illuminate\\Foundation\\Console\\Kernel->reportException(Object(Error))
+#6 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#7 {main}
+"} 
+[2023-07-14 04:01:54] laravel.ERROR: Class "Maatwebsite\Excel\Excel" not found {"exception":"[object] (Error(code: 0): Class \"Maatwebsite\\Excel\\Excel\" not found at C:\\Users\\EKKY DEA\\modul 10\\config\\excel.php:165)
+[stacktrace]
+#0 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(70): require()
+#1 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\\Foundation\\Application), Object(Illuminate\\Config\\Repository))
+#2 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(261): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap(Object(Illuminate\\Foundation\\Application))
+#3 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(428): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#4 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(198): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#5 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#6 {main}
+"} 
+[2023-07-14 04:01:55] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php:212)
+[stacktrace]
+#0 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(137): Illuminate\\Log\\LogManager->resolve(NULL, NULL)
+#1 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(124): Illuminate\\Log\\LogManager->get(NULL)
+#2 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(667): Illuminate\\Log\\LogManager->driver()
+#3 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Exceptions\\Handler.php(274): Illuminate\\Log\\LogManager->error('Class \"Maatwebs...', Array)
+#4 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(503): Illuminate\\Foundation\\Exceptions\\Handler->report(Object(Error))
+#5 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(202): Illuminate\\Foundation\\Console\\Kernel->reportException(Object(Error))
+#6 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#7 {main}
+"} 
+[2023-07-14 04:01:55] laravel.ERROR: Class "Maatwebsite\Excel\Excel" not found {"exception":"[object] (Error(code: 0): Class \"Maatwebsite\\Excel\\Excel\" not found at C:\\Users\\EKKY DEA\\modul 10\\config\\excel.php:165)
+[stacktrace]
+#0 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(70): require()
+#1 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\\Foundation\\Application), Object(Illuminate\\Config\\Repository))
+#2 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(261): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap(Object(Illuminate\\Foundation\\Application))
+#3 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(428): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#4 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(198): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#5 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#6 {main}
+"} 
+[2023-07-14 04:02:54] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php:212)
+[stacktrace]
+#0 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(137): Illuminate\\Log\\LogManager->resolve(NULL, NULL)
+#1 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(124): Illuminate\\Log\\LogManager->get(NULL)
+#2 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(667): Illuminate\\Log\\LogManager->driver()
+#3 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Exceptions\\Handler.php(274): Illuminate\\Log\\LogManager->error('Class \"Maatwebs...', Array)
+#4 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(503): Illuminate\\Foundation\\Exceptions\\Handler->report(Object(Error))
+#5 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(202): Illuminate\\Foundation\\Console\\Kernel->reportException(Object(Error))
+#6 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#7 {main}
+"} 
+[2023-07-14 04:02:54] laravel.ERROR: Class "Maatwebsite\Excel\Excel" not found {"exception":"[object] (Error(code: 0): Class \"Maatwebsite\\Excel\\Excel\" not found at C:\\Users\\EKKY DEA\\modul 10\\config\\excel.php:165)
+[stacktrace]
+#0 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(70): require()
+#1 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\\Foundation\\Application), Object(Illuminate\\Config\\Repository))
+#2 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(261): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap(Object(Illuminate\\Foundation\\Application))
+#3 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(428): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#4 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(198): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#5 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#6 {main}
+"} 
+[2023-07-14 04:02:55] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php:212)
+[stacktrace]
+#0 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(137): Illuminate\\Log\\LogManager->resolve(NULL, NULL)
+#1 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(124): Illuminate\\Log\\LogManager->get(NULL)
+#2 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(667): Illuminate\\Log\\LogManager->driver()
+#3 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Exceptions\\Handler.php(274): Illuminate\\Log\\LogManager->error('Class \"Maatwebs...', Array)
+#4 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(503): Illuminate\\Foundation\\Exceptions\\Handler->report(Object(Error))
+#5 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(202): Illuminate\\Foundation\\Console\\Kernel->reportException(Object(Error))
+#6 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#7 {main}
+"} 
+[2023-07-14 04:02:55] laravel.ERROR: Class "Maatwebsite\Excel\Excel" not found {"exception":"[object] (Error(code: 0): Class \"Maatwebsite\\Excel\\Excel\" not found at C:\\Users\\EKKY DEA\\modul 10\\config\\excel.php:165)
+[stacktrace]
+#0 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(70): require()
+#1 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\\Foundation\\Application), Object(Illuminate\\Config\\Repository))
+#2 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(261): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap(Object(Illuminate\\Foundation\\Application))
+#3 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(428): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#4 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(198): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#5 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#6 {main}
+"} 
+[2023-07-14 04:03:54] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php:212)
+[stacktrace]
+#0 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(137): Illuminate\\Log\\LogManager->resolve(NULL, NULL)
+#1 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(124): Illuminate\\Log\\LogManager->get(NULL)
+#2 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(667): Illuminate\\Log\\LogManager->driver()
+#3 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Exceptions\\Handler.php(274): Illuminate\\Log\\LogManager->error('Class \"Maatwebs...', Array)
+#4 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(503): Illuminate\\Foundation\\Exceptions\\Handler->report(Object(Error))
+#5 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(202): Illuminate\\Foundation\\Console\\Kernel->reportException(Object(Error))
+#6 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#7 {main}
+"} 
+[2023-07-14 04:03:54] laravel.ERROR: Class "Maatwebsite\Excel\Excel" not found {"exception":"[object] (Error(code: 0): Class \"Maatwebsite\\Excel\\Excel\" not found at C:\\Users\\EKKY DEA\\modul 10\\config\\excel.php:165)
+[stacktrace]
+#0 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(70): require()
+#1 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\\Foundation\\Application), Object(Illuminate\\Config\\Repository))
+#2 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(261): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap(Object(Illuminate\\Foundation\\Application))
+#3 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(428): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#4 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(198): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#5 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#6 {main}
+"} 
+[2023-07-14 04:03:55] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php:212)
+[stacktrace]
+#0 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(137): Illuminate\\Log\\LogManager->resolve(NULL, NULL)
+#1 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(124): Illuminate\\Log\\LogManager->get(NULL)
+#2 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(667): Illuminate\\Log\\LogManager->driver()
+#3 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Exceptions\\Handler.php(274): Illuminate\\Log\\LogManager->error('Class \"Maatwebs...', Array)
+#4 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(503): Illuminate\\Foundation\\Exceptions\\Handler->report(Object(Error))
+#5 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(202): Illuminate\\Foundation\\Console\\Kernel->reportException(Object(Error))
+#6 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#7 {main}
+"} 
+[2023-07-14 04:03:55] laravel.ERROR: Class "Maatwebsite\Excel\Excel" not found {"exception":"[object] (Error(code: 0): Class \"Maatwebsite\\Excel\\Excel\" not found at C:\\Users\\EKKY DEA\\modul 10\\config\\excel.php:165)
+[stacktrace]
+#0 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(70): require()
+#1 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\\Foundation\\Application), Object(Illuminate\\Config\\Repository))
+#2 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(261): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap(Object(Illuminate\\Foundation\\Application))
+#3 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(428): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#4 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(198): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#5 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#6 {main}
+"} 
+[2023-07-14 04:03:56] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php:212)
+[stacktrace]
+#0 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(137): Illuminate\\Log\\LogManager->resolve(NULL, NULL)
+#1 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(124): Illuminate\\Log\\LogManager->get(NULL)
+#2 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(667): Illuminate\\Log\\LogManager->driver()
+#3 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Exceptions\\Handler.php(274): Illuminate\\Log\\LogManager->error('Class \"Maatwebs...', Array)
+#4 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(503): Illuminate\\Foundation\\Exceptions\\Handler->report(Object(Error))
+#5 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(202): Illuminate\\Foundation\\Console\\Kernel->reportException(Object(Error))
+#6 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#7 {main}
+"} 
+[2023-07-14 04:03:56] laravel.ERROR: Class "Maatwebsite\Excel\Excel" not found {"exception":"[object] (Error(code: 0): Class \"Maatwebsite\\Excel\\Excel\" not found at C:\\Users\\EKKY DEA\\modul 10\\config\\excel.php:165)
+[stacktrace]
+#0 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(70): require()
+#1 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\\Foundation\\Application), Object(Illuminate\\Config\\Repository))
+#2 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(261): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap(Object(Illuminate\\Foundation\\Application))
+#3 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(428): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#4 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(198): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#5 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#6 {main}
+"} 
+[2023-07-14 04:04:54] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php:212)
+[stacktrace]
+#0 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(137): Illuminate\\Log\\LogManager->resolve(NULL, NULL)
+#1 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(124): Illuminate\\Log\\LogManager->get(NULL)
+#2 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(667): Illuminate\\Log\\LogManager->driver()
+#3 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Exceptions\\Handler.php(274): Illuminate\\Log\\LogManager->error('Class \"Maatwebs...', Array)
+#4 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(503): Illuminate\\Foundation\\Exceptions\\Handler->report(Object(Error))
+#5 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(202): Illuminate\\Foundation\\Console\\Kernel->reportException(Object(Error))
+#6 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#7 {main}
+"} 
+[2023-07-14 04:04:54] laravel.ERROR: Class "Maatwebsite\Excel\Excel" not found {"exception":"[object] (Error(code: 0): Class \"Maatwebsite\\Excel\\Excel\" not found at C:\\Users\\EKKY DEA\\modul 10\\config\\excel.php:165)
+[stacktrace]
+#0 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(70): require()
+#1 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\\Foundation\\Application), Object(Illuminate\\Config\\Repository))
+#2 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(261): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap(Object(Illuminate\\Foundation\\Application))
+#3 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(428): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#4 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(198): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#5 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#6 {main}
+"} 
+[2023-07-14 04:04:55] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php:212)
+[stacktrace]
+#0 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(137): Illuminate\\Log\\LogManager->resolve(NULL, NULL)
+#1 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(124): Illuminate\\Log\\LogManager->get(NULL)
+#2 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(667): Illuminate\\Log\\LogManager->driver()
+#3 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Exceptions\\Handler.php(274): Illuminate\\Log\\LogManager->error('Class \"Maatwebs...', Array)
+#4 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(503): Illuminate\\Foundation\\Exceptions\\Handler->report(Object(Error))
+#5 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(202): Illuminate\\Foundation\\Console\\Kernel->reportException(Object(Error))
+#6 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#7 {main}
+"} 
+[2023-07-14 04:04:55] laravel.ERROR: Class "Maatwebsite\Excel\Excel" not found {"exception":"[object] (Error(code: 0): Class \"Maatwebsite\\Excel\\Excel\" not found at C:\\Users\\EKKY DEA\\modul 10\\config\\excel.php:165)
+[stacktrace]
+#0 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(70): require()
+#1 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\\Foundation\\Application), Object(Illuminate\\Config\\Repository))
+#2 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(261): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap(Object(Illuminate\\Foundation\\Application))
+#3 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(428): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#4 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(198): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#5 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#6 {main}
+"} 
+[2023-07-14 04:05:54] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php:212)
+[stacktrace]
+#0 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(137): Illuminate\\Log\\LogManager->resolve(NULL, NULL)
+#1 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(124): Illuminate\\Log\\LogManager->get(NULL)
+#2 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(667): Illuminate\\Log\\LogManager->driver()
+#3 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Exceptions\\Handler.php(274): Illuminate\\Log\\LogManager->error('Class \"Maatwebs...', Array)
+#4 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(503): Illuminate\\Foundation\\Exceptions\\Handler->report(Object(Error))
+#5 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(202): Illuminate\\Foundation\\Console\\Kernel->reportException(Object(Error))
+#6 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#7 {main}
+"} 
+[2023-07-14 04:05:54] laravel.ERROR: Class "Maatwebsite\Excel\Excel" not found {"exception":"[object] (Error(code: 0): Class \"Maatwebsite\\Excel\\Excel\" not found at C:\\Users\\EKKY DEA\\modul 10\\config\\excel.php:165)
+[stacktrace]
+#0 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(70): require()
+#1 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\\Foundation\\Application), Object(Illuminate\\Config\\Repository))
+#2 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(261): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap(Object(Illuminate\\Foundation\\Application))
+#3 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(428): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#4 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(198): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#5 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#6 {main}
+"} 
+[2023-07-14 04:05:55] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php:212)
+[stacktrace]
+#0 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(137): Illuminate\\Log\\LogManager->resolve(NULL, NULL)
+#1 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(124): Illuminate\\Log\\LogManager->get(NULL)
+#2 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(667): Illuminate\\Log\\LogManager->driver()
+#3 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Exceptions\\Handler.php(274): Illuminate\\Log\\LogManager->error('Class \"Maatwebs...', Array)
+#4 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(503): Illuminate\\Foundation\\Exceptions\\Handler->report(Object(Error))
+#5 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(202): Illuminate\\Foundation\\Console\\Kernel->reportException(Object(Error))
+#6 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#7 {main}
+"} 
+[2023-07-14 04:05:55] laravel.ERROR: Class "Maatwebsite\Excel\Excel" not found {"exception":"[object] (Error(code: 0): Class \"Maatwebsite\\Excel\\Excel\" not found at C:\\Users\\EKKY DEA\\modul 10\\config\\excel.php:165)
+[stacktrace]
+#0 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(70): require()
+#1 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\\Foundation\\Application), Object(Illuminate\\Config\\Repository))
+#2 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(261): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap(Object(Illuminate\\Foundation\\Application))
+#3 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(428): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#4 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(198): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#5 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#6 {main}
+"} 
+[2023-07-14 04:06:54] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php:212)
+[stacktrace]
+#0 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(137): Illuminate\\Log\\LogManager->resolve(NULL, NULL)
+#1 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(124): Illuminate\\Log\\LogManager->get(NULL)
+#2 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(667): Illuminate\\Log\\LogManager->driver()
+#3 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Exceptions\\Handler.php(274): Illuminate\\Log\\LogManager->error('Class \"Maatwebs...', Array)
+#4 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(503): Illuminate\\Foundation\\Exceptions\\Handler->report(Object(Error))
+#5 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(202): Illuminate\\Foundation\\Console\\Kernel->reportException(Object(Error))
+#6 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#7 {main}
+"} 
+[2023-07-14 04:06:54] laravel.ERROR: Class "Maatwebsite\Excel\Excel" not found {"exception":"[object] (Error(code: 0): Class \"Maatwebsite\\Excel\\Excel\" not found at C:\\Users\\EKKY DEA\\modul 10\\config\\excel.php:165)
+[stacktrace]
+#0 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(70): require()
+#1 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\\Foundation\\Application), Object(Illuminate\\Config\\Repository))
+#2 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(261): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap(Object(Illuminate\\Foundation\\Application))
+#3 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(428): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#4 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(198): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#5 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#6 {main}
+"} 
+[2023-07-14 04:06:55] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php:212)
+[stacktrace]
+#0 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(137): Illuminate\\Log\\LogManager->resolve(NULL, NULL)
+#1 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(124): Illuminate\\Log\\LogManager->get(NULL)
+#2 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(667): Illuminate\\Log\\LogManager->driver()
+#3 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Exceptions\\Handler.php(274): Illuminate\\Log\\LogManager->error('Class \"Maatwebs...', Array)
+#4 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(503): Illuminate\\Foundation\\Exceptions\\Handler->report(Object(Error))
+#5 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(202): Illuminate\\Foundation\\Console\\Kernel->reportException(Object(Error))
+#6 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#7 {main}
+"} 
+[2023-07-14 04:06:55] laravel.ERROR: Class "Maatwebsite\Excel\Excel" not found {"exception":"[object] (Error(code: 0): Class \"Maatwebsite\\Excel\\Excel\" not found at C:\\Users\\EKKY DEA\\modul 10\\config\\excel.php:165)
+[stacktrace]
+#0 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(70): require()
+#1 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\\Foundation\\Application), Object(Illuminate\\Config\\Repository))
+#2 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(261): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap(Object(Illuminate\\Foundation\\Application))
+#3 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(428): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#4 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(198): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#5 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#6 {main}
+"} 
+[2023-07-14 04:07:54] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php:212)
+[stacktrace]
+#0 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(137): Illuminate\\Log\\LogManager->resolve(NULL, NULL)
+#1 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(124): Illuminate\\Log\\LogManager->get(NULL)
+#2 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(667): Illuminate\\Log\\LogManager->driver()
+#3 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Exceptions\\Handler.php(274): Illuminate\\Log\\LogManager->error('Class \"Maatwebs...', Array)
+#4 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(503): Illuminate\\Foundation\\Exceptions\\Handler->report(Object(Error))
+#5 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(202): Illuminate\\Foundation\\Console\\Kernel->reportException(Object(Error))
+#6 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#7 {main}
+"} 
+[2023-07-14 04:07:54] laravel.ERROR: Class "Maatwebsite\Excel\Excel" not found {"exception":"[object] (Error(code: 0): Class \"Maatwebsite\\Excel\\Excel\" not found at C:\\Users\\EKKY DEA\\modul 10\\config\\excel.php:165)
+[stacktrace]
+#0 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(70): require()
+#1 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\\Foundation\\Application), Object(Illuminate\\Config\\Repository))
+#2 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(261): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap(Object(Illuminate\\Foundation\\Application))
+#3 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(428): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#4 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(198): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#5 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#6 {main}
+"} 
+[2023-07-14 04:07:55] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php:212)
+[stacktrace]
+#0 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(137): Illuminate\\Log\\LogManager->resolve(NULL, NULL)
+#1 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(124): Illuminate\\Log\\LogManager->get(NULL)
+#2 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(667): Illuminate\\Log\\LogManager->driver()
+#3 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Exceptions\\Handler.php(274): Illuminate\\Log\\LogManager->error('Class \"Maatwebs...', Array)
+#4 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(503): Illuminate\\Foundation\\Exceptions\\Handler->report(Object(Error))
+#5 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(202): Illuminate\\Foundation\\Console\\Kernel->reportException(Object(Error))
+#6 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#7 {main}
+"} 
+[2023-07-14 04:07:55] laravel.ERROR: Class "Maatwebsite\Excel\Excel" not found {"exception":"[object] (Error(code: 0): Class \"Maatwebsite\\Excel\\Excel\" not found at C:\\Users\\EKKY DEA\\modul 10\\config\\excel.php:165)
+[stacktrace]
+#0 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(70): require()
+#1 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\\Foundation\\Application), Object(Illuminate\\Config\\Repository))
+#2 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(261): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap(Object(Illuminate\\Foundation\\Application))
+#3 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(428): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#4 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(198): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#5 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#6 {main}
+"} 
+[2023-07-14 04:08:54] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php:212)
+[stacktrace]
+#0 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(137): Illuminate\\Log\\LogManager->resolve(NULL, NULL)
+#1 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(124): Illuminate\\Log\\LogManager->get(NULL)
+#2 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(667): Illuminate\\Log\\LogManager->driver()
+#3 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Exceptions\\Handler.php(274): Illuminate\\Log\\LogManager->error('Class \"Maatwebs...', Array)
+#4 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(503): Illuminate\\Foundation\\Exceptions\\Handler->report(Object(Error))
+#5 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(202): Illuminate\\Foundation\\Console\\Kernel->reportException(Object(Error))
+#6 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#7 {main}
+"} 
+[2023-07-14 04:08:54] laravel.ERROR: Class "Maatwebsite\Excel\Excel" not found {"exception":"[object] (Error(code: 0): Class \"Maatwebsite\\Excel\\Excel\" not found at C:\\Users\\EKKY DEA\\modul 10\\config\\excel.php:165)
+[stacktrace]
+#0 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(70): require()
+#1 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\\Foundation\\Application), Object(Illuminate\\Config\\Repository))
+#2 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(261): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap(Object(Illuminate\\Foundation\\Application))
+#3 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(428): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#4 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(198): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#5 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#6 {main}
+"} 
+[2023-07-14 04:08:55] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php:212)
+[stacktrace]
+#0 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(137): Illuminate\\Log\\LogManager->resolve(NULL, NULL)
+#1 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(124): Illuminate\\Log\\LogManager->get(NULL)
+#2 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(667): Illuminate\\Log\\LogManager->driver()
+#3 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Exceptions\\Handler.php(274): Illuminate\\Log\\LogManager->error('Class \"Maatwebs...', Array)
+#4 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(503): Illuminate\\Foundation\\Exceptions\\Handler->report(Object(Error))
+#5 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(202): Illuminate\\Foundation\\Console\\Kernel->reportException(Object(Error))
+#6 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#7 {main}
+"} 
+[2023-07-14 04:08:55] laravel.ERROR: Class "Maatwebsite\Excel\Excel" not found {"exception":"[object] (Error(code: 0): Class \"Maatwebsite\\Excel\\Excel\" not found at C:\\Users\\EKKY DEA\\modul 10\\config\\excel.php:165)
+[stacktrace]
+#0 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(70): require()
+#1 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\\Foundation\\Application), Object(Illuminate\\Config\\Repository))
+#2 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(261): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap(Object(Illuminate\\Foundation\\Application))
+#3 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(428): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#4 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(198): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#5 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#6 {main}
+"} 
+[2023-07-14 04:09:54] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php:212)
+[stacktrace]
+#0 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(137): Illuminate\\Log\\LogManager->resolve(NULL, NULL)
+#1 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(124): Illuminate\\Log\\LogManager->get(NULL)
+#2 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(667): Illuminate\\Log\\LogManager->driver()
+#3 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Exceptions\\Handler.php(274): Illuminate\\Log\\LogManager->error('Class \"Maatwebs...', Array)
+#4 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(503): Illuminate\\Foundation\\Exceptions\\Handler->report(Object(Error))
+#5 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(202): Illuminate\\Foundation\\Console\\Kernel->reportException(Object(Error))
+#6 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#7 {main}
+"} 
+[2023-07-14 04:09:54] laravel.ERROR: Class "Maatwebsite\Excel\Excel" not found {"exception":"[object] (Error(code: 0): Class \"Maatwebsite\\Excel\\Excel\" not found at C:\\Users\\EKKY DEA\\modul 10\\config\\excel.php:165)
+[stacktrace]
+#0 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(70): require()
+#1 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\\Foundation\\Application), Object(Illuminate\\Config\\Repository))
+#2 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(261): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap(Object(Illuminate\\Foundation\\Application))
+#3 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(428): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#4 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(198): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#5 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#6 {main}
+"} 
+[2023-07-14 04:09:55] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php:212)
+[stacktrace]
+#0 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(137): Illuminate\\Log\\LogManager->resolve(NULL, NULL)
+#1 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(124): Illuminate\\Log\\LogManager->get(NULL)
+#2 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(667): Illuminate\\Log\\LogManager->driver()
+#3 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Exceptions\\Handler.php(274): Illuminate\\Log\\LogManager->error('Class \"Maatwebs...', Array)
+#4 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(503): Illuminate\\Foundation\\Exceptions\\Handler->report(Object(Error))
+#5 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(202): Illuminate\\Foundation\\Console\\Kernel->reportException(Object(Error))
+#6 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#7 {main}
+"} 
+[2023-07-14 04:09:55] laravel.ERROR: Class "Maatwebsite\Excel\Excel" not found {"exception":"[object] (Error(code: 0): Class \"Maatwebsite\\Excel\\Excel\" not found at C:\\Users\\EKKY DEA\\modul 10\\config\\excel.php:165)
+[stacktrace]
+#0 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(70): require()
+#1 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\\Foundation\\Application), Object(Illuminate\\Config\\Repository))
+#2 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(261): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap(Object(Illuminate\\Foundation\\Application))
+#3 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(428): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#4 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(198): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#5 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#6 {main}
+"} 
+[2023-07-14 04:10:54] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php:212)
+[stacktrace]
+#0 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(137): Illuminate\\Log\\LogManager->resolve(NULL, NULL)
+#1 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(124): Illuminate\\Log\\LogManager->get(NULL)
+#2 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(667): Illuminate\\Log\\LogManager->driver()
+#3 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Exceptions\\Handler.php(274): Illuminate\\Log\\LogManager->error('Class \"Maatwebs...', Array)
+#4 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(503): Illuminate\\Foundation\\Exceptions\\Handler->report(Object(Error))
+#5 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(202): Illuminate\\Foundation\\Console\\Kernel->reportException(Object(Error))
+#6 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#7 {main}
+"} 
+[2023-07-14 04:10:54] laravel.ERROR: Class "Maatwebsite\Excel\Excel" not found {"exception":"[object] (Error(code: 0): Class \"Maatwebsite\\Excel\\Excel\" not found at C:\\Users\\EKKY DEA\\modul 10\\config\\excel.php:165)
+[stacktrace]
+#0 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(70): require()
+#1 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\\Foundation\\Application), Object(Illuminate\\Config\\Repository))
+#2 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(261): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap(Object(Illuminate\\Foundation\\Application))
+#3 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(428): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#4 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(198): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#5 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#6 {main}
+"} 
+[2023-07-14 04:10:55] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php:212)
+[stacktrace]
+#0 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(137): Illuminate\\Log\\LogManager->resolve(NULL, NULL)
+#1 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(124): Illuminate\\Log\\LogManager->get(NULL)
+#2 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Log\\LogManager.php(667): Illuminate\\Log\\LogManager->driver()
+#3 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Exceptions\\Handler.php(274): Illuminate\\Log\\LogManager->error('Class \"Maatwebs...', Array)
+#4 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(503): Illuminate\\Foundation\\Exceptions\\Handler->report(Object(Error))
+#5 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(202): Illuminate\\Foundation\\Console\\Kernel->reportException(Object(Error))
+#6 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#7 {main}
+"} 
+[2023-07-14 04:10:55] laravel.ERROR: Class "Maatwebsite\Excel\Excel" not found {"exception":"[object] (Error(code: 0): Class \"Maatwebsite\\Excel\\Excel\" not found at C:\\Users\\EKKY DEA\\modul 10\\config\\excel.php:165)
+[stacktrace]
+#0 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(70): require()
+#1 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\\Foundation\\Application), Object(Illuminate\\Config\\Repository))
+#2 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(261): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap(Object(Illuminate\\Foundation\\Application))
+#3 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(428): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#4 C:\\Users\\EKKY DEA\\modul 10\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(198): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#5 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#6 {main}
+"} 
